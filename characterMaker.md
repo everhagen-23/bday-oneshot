@@ -37,13 +37,13 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     ATTACK: 1d12 + 4\
     SPECIAL: Always roll with advantage for attacks
 
- - AVERAGE STAKE\ 
-    *wood + a knife. most people wouldn't surive a stake through the heart either.*\ 
+ - AVERAGE STAKE\
+    *wood + a knife. most people wouldn't surive a stake through the heart either.*\
     ROLL BONUS: + STR MOD\
     ATTACK: 2d6 + 4
 
  - BIG STAKE\
-    *3ft long stake that only a wielder of great strength could carry. fits easily in any bag!*\  
+    *3ft long stake that only a wielder of great strength could carry. fits easily in any bag!*\ 
     -2 AGIL\
     ROLL BONUS: NONE\
     ATTACK: 2d12 + 5
@@ -73,9 +73,8 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
 
 ### SUPPORTER WEAPONS:
 - FLUTE\
-    *like a dog whistle. but a vampire flute.* \ 
-    ROLL BONUS: +SP MOD x2 \ 
-    ATTACK: n/a \
+    *like a dog whistle. but a vampire flute.*\
+    ROLL BONUS: +SP MOD x2\
     SPECIAL: (!!CANNOT PHYSICALLY HARM VAMPIRES!!) 1d4 for how many turns paralysis lasts.
 
 - SMALL KNIFE\
@@ -84,12 +83,12 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     ATTACK: 1d4 + 2
 
 - HEALING TOTEM\
-    *hope and pray for better healing!*\ 
+    *hope and pray for better healing!*\
     ROLL BONUS: +SP MOD\
     SPECIAL: Roll a 15 or higher to heal 1d12 + SP MOD x2
     
 - HEALING PILLS (5)\
-    *instant healing. no rolls no strings.*\ 
+    *instant healing. no rolls no strings.*\
     SPECIAL: Heal 1d6 + SP MOD
 
 ### TRAPPER WEAPONS:
