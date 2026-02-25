@@ -43,7 +43,7 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     ATTACK: 2d6 + 4
 
  - BIG STAKE\
-    *3ft long stake that only a wielder of great strength could carry. fits easily in any bag!*\ 
+    *3ft long stake that only a wielder of great strength could carry. fits easily in any bag!*\
     -2 AGIL\
     ROLL BONUS: NONE\
     ATTACK: 2d12 + 5
