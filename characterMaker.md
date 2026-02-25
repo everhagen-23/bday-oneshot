@@ -37,18 +37,19 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     ATTACK: 1d12 + 4\
     SPECIAL: Always roll with advantage for attacks
 
- - STAKE (AVERAGE)\ 
+ - AVERAGE STAKE\ 
     *wood + a knife. most people wouldn't surive a stake through the heart either.*\ 
     ROLL BONUS: + STR MOD\
     ATTACK: 2d6 + 4
 
- - STAKE (BIG): -2 AGIL\
+ - BIG STAKE\
     *3ft long stake that only a wielder of great strength could carry. fits easily in any bag!*\  
+    -2 AGIL\
     ROLL BONUS: NONE\
     ATTACK: 2d12 + 5
 
 ### RANGER WEAPONS:
-  CROSSBOW\
+- CROSSBOW\
     *long range stake action. starts with 10 stakes, but more can be bought quite cheaply.*\
     ROLL BONUS: + PC MOD\
     ATTACK: 2d6 + 2
@@ -72,9 +73,9 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
 
 ### SUPPORTER WEAPONS:
 - FLUTE\
-    *like a dog whistle. but a vampire flute.*\ 
-    ROLL BONUS: +SP MOD x2\ 
-    ATTACK: n/a\
+    *like a dog whistle. but a vampire flute.* \ 
+    ROLL BONUS: +SP MOD x2 \ 
+    ATTACK: n/a \
     SPECIAL: (!!CANNOT PHYSICALLY HARM VAMPIRES!!) 1d4 for how many turns paralysis lasts.
 
 - SMALL KNIFE\
