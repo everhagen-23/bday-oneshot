@@ -8,25 +8,25 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     - STR: Intimidation, Survival
     - PC: Deception, Insight, 
     - SP: Persuasion, Medicine
-    - AGIL: Stealth, Acrobatics,
+    - AGIL: Stealth, Acrobatics\
     -> your character's backstory will also factor into these, so keep that in mind!
 - pick a class
     - STRONGMAN:\
         *Deal big damage and scare off threats*\
         +2 strength\
-        choose 1 weapon from the STRONGMAN list\
+        choose 1 weapon from the STRONGMAN list
     - RANGER:\
         *Deal damage and draw enemy attention from afar*\
         +2 perception\
-        choose 1 weapon from the RANGER list\
+        choose 1 weapon from the RANGER list
     - SUPPORTER:\
         *Buff your allies and tank hits*\
         +2 support\
-        choose 2 weapons/items from the SUPPORTER list\
+        choose 2 weapons/items from the SUPPORTER list
     - TRAPPER:\
         *Keep enemies on their toes and set up the battlefield. Relatively customizable if you talk to me*\
         +2 agility\
-        choose 2 weapons/items from the TRAPPER list\
+        choose 2 weapons/items from the TRAPPER list
 
 - Armor Class (AC) = perception modifer x 3 
 - Health (HP) = support x 3
