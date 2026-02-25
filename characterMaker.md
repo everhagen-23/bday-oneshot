@@ -3,20 +3,30 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
 
 # Making a Character
 
-- roll 4d6 and drop the lowest for each stat (like D&D) (STRENGTH (STR),PERCEPTION (PC), SUPPORT (SP), AGILITY (AGIL))
+- roll 4d6 and drop the lowest for each stat (like D&D) (STRENGTH (STR),PERCEPTION (PC), SUPPORT (SP), AGILITY (AGIL))*\
+    *These stats are linked to skill checks, such as:
+    - STR: Intimidation, Survival
+    - PC: Deception, Insight, 
+    - SP: Persuasion, Medicine
+    - AGIL: Stealth, Acrobatics,
+    -> your character's backstory will also factor into these, so keep that in mind!
 - pick a class
-    - STRONGMAN:
-        +2 strength
-        choose 1 weapon from the STRONGMAN list
-    - RANGER:
-        +2 perception
-        choose 1 weapon from the RANGER list
-    - SUPPORTER: 
-        +2 support
-        choose 2 weapons/items from the SUPPORTER list
-    - TRAPPER:
-        +2 agility
-        choose 2 weapons/items from the TRAPPER list
+    - STRONGMAN:\
+        *Deal big damage and scare off threats*\
+        +2 strength\
+        choose 1 weapon from the STRONGMAN list\
+    - RANGER:\
+        *Deal damage and draw enemy attention from afar*\
+        +2 perception\
+        choose 1 weapon from the RANGER list\
+    - SUPPORTER:\
+        *Buff your allies and tank hits*\
+        +2 support\
+        choose 2 weapons/items from the SUPPORTER list\
+    - TRAPPER:\
+        *Keep enemies on their toes and set up the battlefield. Relatively customizable if you talk to me*\
+        +2 agility\
+        choose 2 weapons/items from the TRAPPER list\
 
 - Armor Class (AC) = perception modifer x 3 
 - Health (HP) = support x 3
@@ -78,9 +88,15 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     SPECIAL: (!!CANNOT PHYSICALLY HARM VAMPIRES!!) 1d4 for how many turns paralysis lasts.
 
 - SMALL KNIFE\
-    *its a small knife. could be used to whiddle something though.*\
+    *its a small knife. can be used to widdle stakes*\
     ROLL BONUS: +STR MOD\
-    ATTACK: 1d4 + 2
+    ATTACK: 1d4 + 2\
+    SPECIAL: Find a stick to widdle a stake, roll a check to see how strong your stake is. 
+
+- PENDANT\
+    *totally fun and chill hypnosis whats not to love*
+    ROLL BONUS: +SP MOD +5\
+    SPECIAL: Roll above a 10 to give your ally advantage on any relevant skill check (you can argue with me).
 
 - HEALING TOTEM\
     *hope and pray for better healing!*\
@@ -96,13 +112,13 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     *kill a vampires self esteem. or it would if they could see anything.*\
     ROLL BONUS: +AGIL MOD\
     ATTACK: 1d6\
-    SPECIAL: if the sun is shining deal an extra 1d12 of damage
+    SPECIAL: if the sun is shining deal an extra 1d12 of damage. Can also be used to check the environment from behind cover to gain attack advantage next turn.
 
 - LIGHTER:\
     *stop drop and roll! be careful, fire spreads fast!*\
     ROLL BONUS: +AGIL MOD\
     ATTACK: 3d6, if you roll higher than 14 dmg the surrounding area may catch fire\
-    SPECIAL: can catch grass and such on fire, if desired.
+    SPECIAL: can catch grass and such on fire, if desired. Fire spreads 5ft per turn, and can hurt both you and your allies (1d6 of damage per turn of contact)
 
 - SPIKES:\
     *watch your step!*\
@@ -113,7 +129,7 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     *watch your step!*\
     ROLL BONUS: +AGIL MOD\
     ATTACK: n/a\
-    SPECIAL: Incapacitate an enemy during their next turn.
+    SPECIAL: Incapacitate an enemy during their next turn. Enemies must roll a STR check to get out (10 to escape).
 
 ### CLOTHES: 
 - SUIT OF ARMOR:\
