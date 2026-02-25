@@ -26,10 +26,10 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
 
 ## ITEMS:
 ### STRONGMAN WEAPONS:
- - SILVER SWORD 
-    *a sleek silver sword with a black wooden handle.*
-    ROLL BONUS: + STR MOD
-    ATTACK: 1d12 + 4
+ - SILVER SWORD\
+    *a sleek silver sword with a black wooden handle.*\
+    ROLL BONUS: + STR MOD\
+    ATTACK: 1d12 + 4\
 
 - BATTLEAXE
     *decapitation. thats all.* 
@@ -48,7 +48,7 @@ Welcome to Canin, where you are a vampire hunter in a world of superpowered vamp
     ATTACK: 2d12 + 5
 
 ### RANGER WEAPONS:
- - CROSSBOW
+  CROSSBOW
     *long range stake action. starts with 10 stakes, but more can be bought quite cheaply.*
     ROLL BONUS: + PC MOD
     ATTACK: 2d6 + 2
